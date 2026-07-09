@@ -36,18 +36,6 @@ The recurring finding across all three domains is the same: **these inverse prob
 
 ---
 
-## The verification record
-
-This project **catches its own confident-wrong conclusions** in public:
-
-- The Kepler-9 fit was first reported at χ²≈598 ("model inadequacy") — **wrong, it was under-optimization**; a post-mortem then blamed a transit-node convention — **also wrong**; multistart reached χ²≈185 and revealed the true mass-scale degeneracy.
-- **M4 (dark matter) was shelved** as the least-winnable arena for a general toolkit.
-- A storm-niche claim tested false at GRACE's altitude, then true at CHAMP's — the altitude-scaling hypothesis was **overturned mid-survey by the data**.
-
-This iterated, adversarial self-checking — not any single result — is the strongest thing here.
-
----
-
 ## Installation
 
 ```bash
