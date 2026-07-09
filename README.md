@@ -3,7 +3,7 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch 2.0+](https://img.shields.io/badge/PyTorch-%3E%3D2.0-ee4c2c.svg)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Smoke Test](https://github.com/YOUR_USERNAME/ariadne/actions/workflows/smoke.yml/badge.svg)](https://github.com/YOUR_USERNAME/ariadne/actions/workflows/smoke.yml)
+[![Smoke Test](https://github.com/Menex-lighty/ariadne/actions/workflows/smoke.yml/badge.svg)](https://github.com/Menex-lighty/ariadne/actions/workflows/smoke.yml)
 
 > **Most inverse problems are underdetermined. Ariadne tells you where.**
 
@@ -52,7 +52,7 @@ This iterated, adversarial self-checking — not any single result — is the st
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/ariadne.git
+git clone https://github.com/Menex-lighty/ariadne.git
 cd ariadne
 
 # Install dependencies
@@ -173,7 +173,7 @@ If you use Ariadne in your research, please cite:
   title = {Ariadne: Unknown-Force Discovery from Trajectories},
   author = {YOUR NAME},
   year = {2025},
-  url = {https://github.com/YOUR_USERNAME/ariadne}
+  url = {https://github.com/Menex-lighty/ariadne}
 }
 ```
 
