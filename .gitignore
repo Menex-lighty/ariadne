@@ -1,0 +1,43 @@
+# Results and generated artifacts
+results/
+results_nb/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Legacy migration script
+scripts/_migrate_realistic.py
+
+# External VLEO datasets (download separately; see docs/m3_plan.md and docs/vleo_nowcast_gate.md)
+data/stormai/
+data/tudelft/
+data/stormai/*.zip
